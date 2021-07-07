@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Chris Naubert"
+
+relative_links:
+  enabled:     true
+  collections: false
