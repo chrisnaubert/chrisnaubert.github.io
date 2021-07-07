@@ -1,5 +1,7 @@
+---
 layout: page
 title: "Chris Naubert"
+---
 
 ## Under Construction
 
