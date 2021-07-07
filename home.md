@@ -1,6 +1,5 @@
 layout: page
 title: "Chris Naubert"
-permalink: /home/
 
 ## Under Construction
 
