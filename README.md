@@ -1,8 +1,3 @@
-# Test
-
-[Research](#Research) 
-
-[Teaching](#Teaching)
 ## Under Construction
 
 ## About Me
