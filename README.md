@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # al-folio
+=======
+## Under Construction
+
+## About Me
+>>>>>>> 598afcf9925f8e16cc0e8064cdc5552c7f0f2b9a
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
@@ -12,6 +18,7 @@
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 If you like the theme, give it a star!
 
+<<<<<<< HEAD
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
 
@@ -369,3 +376,20 @@ The theme is available as open source under the terms of the [MIT License](https
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
+=======
+# Reserach
+
+## Publications
+* Christopher Naubert and Linda Tesar (2018). ["The Value of Systemic Unimportance: The Case of MetLife"](https://academic.oup.com/rof/article/23/6/1069/5182298). Review of Finance, Volume 23, Issue 6, October 2019, Pages 1069–1078.
+## Working Papers
+* Yuriy Gorodnichenko, Lilia Maliar, Serguei Maliar and Christopher Naubert (2020). ["Household Savings and Monetary Policy under Individual and Aggregate Stochastic Volatility"](https://lmaliar.ws.gc.cuny.edu/files/2021/02/DP15614.pdf). CEPR working paper DP 15614. 
+* Lilia Maliar and Christopher Naubert (2019). [“Monetary Policy and Redistribution: A Look Under the Hatch with TANK"](https://lmaliar.ws.gc.cuny.edu/files/2020/08/DP14159-4.pdf). CEPR working paper DP 14159.  
+
+# Teaching
+
+## Academic year 2020-2021:
+* Fall 2020: Teaching assistant, Macroeconomic Theory I (ECON 711), CUNY Graduate Center (Class Notes)
+## Academic year 2019-2020:
+* Fall 2019: Teaching assistant, Macroeconomic Theory I (ECON 711), CUNY Graduate Center
+* Spring 2020: Teaching assistant, Macroeconomic Theory II (ECON 712), CUNY Graduate Center
+>>>>>>> 598afcf9925f8e16cc0e8064cdc5552c7f0f2b9a
