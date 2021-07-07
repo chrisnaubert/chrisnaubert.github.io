@@ -1,1 +1,19 @@
 theme: jekyll-theme-cayman
+
+title: Your awesome title
+author: Chris Naubert
+email: cnaubert@gradcenter.cuny.edu
+description: >
+
+
+
+# Header Links - all optional. If set these create header links.
+twitter_username: example
+github_username:  example
+linkedin_username: example
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-remote-theme # Lets us test remote themes locally.
