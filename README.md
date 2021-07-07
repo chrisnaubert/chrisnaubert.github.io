@@ -1,6 +1,8 @@
 # Test
 
-[Research](#Research) [Teaching](#Teaching)
+[Research](#Research) 
+
+[Teaching](#Teaching)
 ## Under Construction
 
 ## About Me
