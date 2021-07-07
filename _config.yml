@@ -12,6 +12,22 @@ twitter_username: example
 github_username:  example
 linkedin_username: example
 
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+
 defaults:
   # _publications
   - scope:
