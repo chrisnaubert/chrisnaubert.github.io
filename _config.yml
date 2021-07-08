@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Chris
+middle_name: 
+last_name: Naubert
+email: cnaubert@gradcenter.cuny.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -222,11 +221,3 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
-=======
-theme: jekyll-theme-cayman
-title: "Chris Naubert"
-
-relative_links:
-  enabled:     true
-  collections: false
->>>>>>> 598afcf9925f8e16cc0e8064cdc5552c7f0f2b9a
