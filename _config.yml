@@ -96,6 +96,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  codes:
+    output: true
+    permalink: /codes/:path/
   projects:
     output: true
     permalink: /projects/:path/
