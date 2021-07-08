@@ -9,6 +9,7 @@ nav: true
 ## Academic Year 2019-2020
 * CUNY Graduate Center Macro I Teaching Assistant
 * CUNY Graduate Center Macro II Teaching Assistant
+
 ## Academic Year 2019-2020
 * CUNY Graduate Center Macro I Teaching Assistant
 * CUNY Graduate Center Macro II Teaching Assistant
