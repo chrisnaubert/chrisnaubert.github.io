@@ -2,10 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching by academic year.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+## Academic Year 2019-2020
+* CUNY Graduate Center Macro I Teaching Assistant
+* CUNY Graduate Center Macro II Teaching Assistant
+## Academic Year 2019-2020
+* CUNY Graduate Center Macro I Teaching Assistant
+* CUNY Graduate Center Macro II Teaching Assistant
+* CUNY Graduate Center Math for Economists Teaching Assistant
